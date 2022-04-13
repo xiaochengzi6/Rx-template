@@ -1,0 +1,12 @@
+{
+  "name": "rx-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitee.com/xiaochengzi6/rx-template.git",
+  "author": "小橙子",
+  "license": "MIT",
+  "preview": true,
+  "devDependencies": {
+    "yeoman-generator": "^5.6.1"
+  }
+}
