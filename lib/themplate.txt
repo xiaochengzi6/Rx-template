@@ -1,6 +1,8 @@
-home/user
+home
+├── src
+|  ├── index.js
+|  └── index.html
+|  └── index.html
 ├── foo.js
 ├── test
-|  ├── bar.js
-|  └── baz.js
 └── bat.js

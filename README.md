@@ -9,27 +9,23 @@
 ## rx-themplate_1
 
 ~~~txt
---index.js
---index.html
+home
+├── src
+|  ├── index.js
+|  └── index.html
+|  └── index.html
+├── foo.js
+├── test
+└── bat.js
 ~~~
 
 ## rx-themplate_2
 
-~~~txt
---index.js
---index.html
-~~~
+
 
 ## rx-themplate_3
 
-~~~txt
---index.js
---index.html
-~~~
+
 
 ## rx-themplate_4
 
-~~~txt
---index.js
---index.html
-~~~
